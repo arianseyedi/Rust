@@ -256,7 +256,7 @@ fn build_signature(sorted_hand: &[(usize, String)]) ->
 ** [(12, "D"), (12, "C"), (12, "S"), (10, "H"), (10, "C")]
 ** both with signature = (4, 1, 2, 0, 12, 10, 12) have two different rank tuples:
 ** respectively: rank = (4, 10, 24) *total strength 24 + 10* and 
-** rank = (4, 20, 12) *total strength 24 + 12*
+** rank = (4, 20, 12) *total strength 20 + 12*
 ** so the reason for the multiplication is so that the second hand wins over the first
 ** hand when the stregnth1 of the hand 1 is compared with stregnth1 of hand 2 and so on
 ** for strength 2. This makes up for the lost information when signature is passed to 
