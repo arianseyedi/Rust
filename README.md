@@ -6,8 +6,8 @@ This repo is dedicated to my Rust mini projects.
 - Grew out of a personal project by Mozilla employee Graydon Hoare in 2006!
 - Mozilla began sponsoring the project in 2009.    
 - Rust 1.0, the first stable release, arrived on May 15, 2015.  
-- Used by Mozilla in collaboration with Samsung to create a parallel web browsing engine.
-One of the Rust's most unique features is that it is memory safe. No more dangling pointers, null pointers, or memory leaks! Thic unique awesome feature makes Rust a great system programming language. Although imparative, Rust does support pattern matching which makes it almost as cool as Haskell! Actually many feautures of Rust are inspired by it. Last but not least, be **super** aware that Rust won't make you get away with implicit type conversions as it is **strictly** statically typed. 
+- Used by Mozilla in collaboration with Samsung to create a parallel web browsing engine.  
+One of the Rust's most unique features is that it is memory safe. No more dangling pointers, null pointers, or memory leaks! This unique awesome feature makes Rust a great system programming language. Although imparative, Rust does support pattern matching which makes it almost as cool as Haskell! Actually many feautures of Rust are inspired by it. Last but not least, be **super** aware that Rust won't make you get away with implicit type conversions as it is **strictly** statically typed. 
       
 I would like to thank professor [Alex Ufkes](https://ca.linkedin.com/in/alex-ufkes-37154844 "His Linked In Page")
  for teaching an awesome course in Summer 2018 on Comparative Programming Languages where I have got the above information from directly. I learned a great deal from him, needless to say. The projects 1 and 2 are from this course. 
